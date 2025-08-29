@@ -1,4 +1,4 @@
-# 📘 Introduction-to-Quantitative-Trading
+# 📘 Trading-Insights-with-Quantitative-Methods
 
 ---
 
